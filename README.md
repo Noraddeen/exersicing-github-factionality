@@ -1,2 +1,2 @@
 # legendary-succotash
-say hay to the world for jsut to minute
+say hay to  world for jsut to minute
