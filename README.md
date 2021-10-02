@@ -3,7 +3,7 @@ say hay to  world for jsut to minute
 
 class student {
     String name;
-
+    Now how that can be done
     public void static main(String [] args){
         System.out.println();
     }
