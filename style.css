@@ -1,0 +1,12 @@
+*{
+  text-direction:rtl ; // for arabic 
+}
+
+
+body{
+      color:lightgray;
+}
+
+h1{
+  font-style:Romia;
+}
